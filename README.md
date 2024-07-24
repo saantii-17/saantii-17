@@ -19,7 +19,7 @@ ___
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,linux,bash,vim,vscode,arduino,blender&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,py,vscode,arduino&perline=6"/>
   </a>
 </p>
 
